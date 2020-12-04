@@ -1,0 +1,8 @@
+/project/user-app/src/main/java/dev/appsody/starter/health/StarterReadinessCheck.java
+/project/user-app/src/main/java/dev/appsody/starter/StarterApplication.java
+/project/user-app/src/main/java/com/ibm/ta/modresorts/WeatherServlet.java
+/project/user-app/src/main/java/com/ibm/ta/modresorts/exception/ExceptionHandler.java
+/project/user-app/src/main/java/com/ibm/ta/modresorts/DefaultWeatherData.java
+/project/user-app/src/main/java/dev/appsody/starter/StarterResource.java
+/project/user-app/src/main/java/dev/appsody/starter/health/StarterLivenessCheck.java
+/project/user-app/src/main/java/com/ibm/ta/modresorts/Constants.java

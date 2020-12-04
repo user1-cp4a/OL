@@ -1,0 +1,8 @@
+com/ibm/ta/modresorts/exception/ExceptionHandler.class
+com/ibm/ta/modresorts/Constants.class
+dev/appsody/starter/health/StarterReadinessCheck.class
+dev/appsody/starter/StarterResource.class
+dev/appsody/starter/StarterApplication.class
+dev/appsody/starter/health/StarterLivenessCheck.class
+com/ibm/ta/modresorts/WeatherServlet.class
+com/ibm/ta/modresorts/DefaultWeatherData.class
